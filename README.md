@@ -1,1 +1,1 @@
-# okul
+# bilgiler
